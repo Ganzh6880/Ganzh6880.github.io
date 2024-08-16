@@ -27,7 +27,7 @@ Previously, I earned a B.Eng in Electrical and Electronic Engineering with honor
 
 I envision mobile robots go anywhere anytime autonomously and intelligently with understanding of self and environment, leveraging the power of machine learning to enhance embodied skills acquisition and adaptation.
 
-Feel free to reach out via email if you would like to connect/collaboration/discussion!
+Feel free to reach out via email if you would like to connect/collaboration/discuss!
 
 
 # 🔥 News
